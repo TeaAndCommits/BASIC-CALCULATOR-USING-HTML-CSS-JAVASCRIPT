@@ -1,21 +1,50 @@
-# BASIC-CALCULATOR-USING-HTML-CSS-JAVASCRIPT
-A simple and intuitive calculator web application that performs basic arithmetic operations including addition, subtraction, multiplication, and division.   Built with clean and responsive design using **HTML** and **CSS**, and powered by **JavaScript** to handle all calculations and user interactions.
-# Prerequisites :
-Knowledge of HTML, CSS and Javascript.
+# 🧮 BASIC CALCULATOR USING HTML, CSS & JAVASCRIPT
 
-# VS Code Installation Guide :
-* Visual Studio Code is a free and powerful open-source code editor used in various purposes.
-* Download your specified version from VS Code.
-* Follow the Documentation to get accustomed and get started coding in this wonderful editor
+A simple and intuitive **calculator web app** that performs basic arithmetic operations like addition ➕, subtraction ➖, multiplication ✖️, and division ➗.  
+Built with clean, responsive design using **HTML** & **CSS**, powered by **JavaScript** to handle all calculations and user interactions.
 
-# Features of this Calculator
+---
 
-* It will perform basic arithmetic operations like addition, subtraction, division, and multiplication.
-* It will perform decimal operations.
-* It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
-* Clear screen feature to clear the display screen anytime you want.
+## 🚀 Live Demo
 
-# Website for the basic calculator will look like the following  :
+Try it out now:  
+[![Open in Netlify](https://img.shields.io/badge/Live%20Demo-Netlify-blue?logo=netlify)](https://deft-druid-8f01a0.netlify.app/)
 
-![Screenshot 2023-04-13 092627](https://user-images.githubusercontent.com/122288168/231647271-62fa08ec-6abe-4c07-bc56-5bc8abb679a5.jpg)
+---
 
+## 🛠️ Features
+
+- Perform basic arithmetic: addition, subtraction, multiplication, division  
+- Support for decimal operations  
+- Prevents invalid expressions from showing results (e.g., `5++9` will show nothing)  
+- Clear screen button to reset display anytime  
+- Responsive and visually appealing UI  
+
+---
+
+## 📚 Table of Contents
+
+- [Prerequisites](#-prerequisites-)  
+- [Installation & Setup](#-installation--setup-)  
+- [Usage](#-usage-)  
+- [Screenshots](#-screenshots-)  
+- [Deployment](#-deployment-)  
+
+---
+
+## 📖 Prerequisites
+
+Make sure you have a basic understanding of:
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 🧑‍💻 Installation & Setup
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/BASIC-CALCULATOR-USING-HTML-CSS-JAVASCRIPT.git
