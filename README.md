@@ -23,11 +23,8 @@ Try it out now:
 ## 📚 Table of Contents
 
 - [Prerequisites](#-prerequisites-)  
-- [Installation & Setup](#-installation--setup-)  
-- [Usage](#-usage-)  
+- [Installation & Setup](#-installation--setup-)   
 - [Screenshots](#-screenshots-)  
-- [Deployment](#-deployment-)  
-
 ---
 
 ## 📖 Prerequisites
