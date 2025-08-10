@@ -14,9 +14,7 @@ Try it out now:
 
 ## 🛠️ Features
 
-- Perform basic arithmetic: addition, subtraction, multiplication, division  
-- Support for decimal operations  
-- Prevents invalid expressions from showing results (e.g., `5++9` will show nothing)  
+- Perform basic arithmetic: addition, subtraction, multiplication, division   
 - Clear screen button to reset display anytime  
 - Responsive and visually appealing UI  
 
